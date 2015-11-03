@@ -1,0 +1,1 @@
+This is a newer version of file trial_file.txt
