@@ -1,0 +1,6 @@
+trial text file:
+1.list,
+2.name,
+3.date,
+4.time
+
